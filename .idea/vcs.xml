@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../慕课/秒杀2/源码与工具包/dianshangmiaosha/第十章.防刷限流技术/miaoshaStable" vcs="Git" />
   </component>
 </project>
